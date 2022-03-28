@@ -1,0 +1,44 @@
+.card-whole {
+    margin: 20px;
+    display: inline-block;
+
+    /* background: linear-gradient(to right, white 50%, #ff6701 50%); */
+}
+
+/* .funky{
+  display: inline-block
+} */
+
+.names {
+    color: #fcecdd;
+}
+
+.creator {}
+
+body {
+    background-color: #fcecdd;
+}
+
+.link-text {
+    display: flex;
+    flex-direction: margin-left;
+    color: #ff6701;
+}
+
+.card-top {
+    /* background-color: #ff6701; */
+    /* flex-direction: column; */
+}
+
+.popup-top {
+    background-color: #ff6701;
+}
+
+.interest-text {
+    margin-left: 20px;
+}
+
+.app {
+    margin: auto;
+    justify-content: center;
+}
